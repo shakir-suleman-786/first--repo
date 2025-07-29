@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 300px;
+    border: 1px black solid;
+    margin: auto;
+}
+button{
+    margin: 5px;
+    background-color: blue;
+    color: white;
+}
